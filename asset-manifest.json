@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PortFolio/static/css/main.83b136f5.css",
+    "main.js": "/PortFolio/static/js/main.02b6d20c.js",
+    "static/media/ayyanar.jpg": "/PortFolio/static/media/ayyanar.247da7f2efcd33f08101.jpg",
+    "static/media/solving.jpeg": "/PortFolio/static/media/solving.829446b90ff5701f0bc3.jpeg",
+    "static/media/problem.jpeg": "/PortFolio/static/media/problem.761251954f4bfca40ed1.jpeg",
+    "static/media/analyzee.jpeg": "/PortFolio/static/media/analyzee.24bc6bf9ae7b1568e8ca.jpeg",
+    "static/media/teamwork.jpeg": "/PortFolio/static/media/teamwork.51014def197213d30e23.jpeg",
+    "index.html": "/PortFolio/index.html",
+    "main.83b136f5.css.map": "/PortFolio/static/css/main.83b136f5.css.map",
+    "main.02b6d20c.js.map": "/PortFolio/static/js/main.02b6d20c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83b136f5.css",
+    "static/js/main.02b6d20c.js"
+  ]
+}
